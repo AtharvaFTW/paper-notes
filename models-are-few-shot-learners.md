@@ -18,7 +18,7 @@ Eg :
 
 ### 1. Architecture
 
-The GPT-3 is not architecturally novel but the alterating dense and sparse layers is what makes it distinct from the GPT-2 along with 100x bump in training parameters 1.5B -> 175B. The shallow models are uncapable of few shot prompting, it emerges wit scale.
+The GPT-3 is not architecturally novel but the alternating dense and sparse layers is what makes it distinct from the GPT-2 along with 100x bump in training parameters 1.5B -> 175B. The shallow models are uncapable of few shot prompting, it emerges with scale.
 
 ### 2. Training Data
 
